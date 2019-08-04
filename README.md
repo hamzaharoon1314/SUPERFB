@@ -9,9 +9,9 @@
 Open kali or Termux
 Change your location to SUPERFB
 
-TYPE THIS CODE
+#TYPE THIS CODE
 $ sh SUPERFB.sh
-after it type this
+#after it type this
 python superfb.py
 
-Thanks for using my code
+#Thanks for using my code
